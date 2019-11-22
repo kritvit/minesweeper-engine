@@ -1,0 +1,20 @@
+{
+  "name": "minesweeper-engine",
+  "version": "0.0.1",
+  "description": "Game Engine for Minesweeper and Minesweeper-esque games.",
+  "main": "minesweeper-engine.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kritvit/minesweeper-engine.git"
+  },
+  "keywords": [
+    "game",
+    "minesweeper"
+  ],
+  "author": "Andreas Viklund",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kritvit/minesweeper-engine/issues"
+  },
+  "homepage": "https://github.com/kritvit/minesweeper-engine#readme"
+}
