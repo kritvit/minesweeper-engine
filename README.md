@@ -1,5 +1,9 @@
 # Minesweeper Engine
 
+## Install
+
+	$ npm install @kritvit/minesweeper-engine --save
+
 ## Getting Started
 
 	import minesweeperEngine from 'minesweeper-engine';

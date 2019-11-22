@@ -1,5 +1,5 @@
 {
-  "name": "minesweeper-engine",
+  "name": "@kritvit/minesweeper-engine",
   "version": "0.0.1",
   "description": "Game Engine for Minesweeper and Minesweeper-esque games.",
   "main": "minesweeper-engine.js",
